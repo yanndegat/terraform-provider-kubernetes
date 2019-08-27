@@ -249,7 +249,7 @@ github.com/gophercloud/gophercloud/openstack/identity/v3/tokens
 github.com/gophercloud/gophercloud/openstack/utils
 github.com/gophercloud/gophercloud/openstack/identity/v2/tenants
 github.com/gophercloud/gophercloud/pagination
-# github.com/gregjones/httpcache v0.0.0-20190212212710-3befbb6ad0cc
+# github.com/gregjones/httpcache v0.0.0-20190827130456-901d90724c79
 github.com/gregjones/httpcache
 github.com/gregjones/httpcache/diskcache
 # github.com/grpc-ecosystem/grpc-gateway v1.8.5
